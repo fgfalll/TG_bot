@@ -7,7 +7,7 @@ from google_calendar import create_calendar_event
 from document_summary import summarize_word_document
 
 # Define your bot token
-TOKEN = '7229543975:AAGQ4Q-W9zNIWP-rQjBPzr4SusNvrQrVljY'
+TOKEN = 'bot?'
 
 # Initialize logging
 logging.basicConfig(
